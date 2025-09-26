@@ -3,12 +3,12 @@
   "name": "Sistema de Asistencia Impresto",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/jkolansinsky/ATTENDANCE-CONTROL@main/AttendanceControl/Impresto11.png",
+      "src": "https://cdn.jsdelivr.net/gh/jkolansinsky/ATTENDANCE-CONTROL@main/AttendanceControl/Logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/jkolansinsky/ATTENDANCE-CONTROL@main/AttendanceControl/Impresto11.png",
+      "src": "https://cdn.jsdelivr.net/gh/jkolansinsky/ATTENDANCE-CONTROL@main/AttendanceControl/Logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -20,3 +20,4 @@
   "theme_color": "#0062ff"
 
 }
+
